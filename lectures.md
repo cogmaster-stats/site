@@ -1,3 +1,9 @@
+---
+
+layout: default
+title: Statistical analysis of experimental data
+
+---
 
 
 # Lectures
@@ -20,7 +26,7 @@ Here is a temptative timetable (15 hours in total):
 ## 2. Descriptive statistics and two-group comparisons
 
 1. [Exploratory Data Analysis and Statistical Inference]() (slides)
-2. []() (lab notes)
+2. [Data munging and basic statistical tests with R]() (lab notes)
 
 **Reading:** Tukey, J.W. [We Need Both Exploratory and Confirmatory](http://www.aliquote.org/cours/2013_AS/docs/Tukey1980.pdf),
 The American Statistician (1980) 34(1):23-25; Wickham,
